@@ -1,7 +1,20 @@
 # EventLogSystem
-A generic Event Log System
+An Event Log System
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
+
+
+## Diagrams  
+
+![Diagram](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystem.png)  
+[drawio](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystem.drawio)  
+[png](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystem.png)
+
+### Use Cases  
+
+![Diagram](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystemUseCase.png)  
+[drawio](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystemUseCase.drawio)  
+[png](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystemUseCase.png)
 
 
 
