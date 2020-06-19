@@ -6,15 +6,15 @@ An Event Log System
 
 ## Diagrams  
 
-![Diagram](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystem.png)  
-[drawio](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystem.drawio)  
-[png](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystem.png)
+![Diagram](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagrams/EventLogSystem.png)  
+[drawio](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagrams/EventLogSystem.drawio)  
+[png](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagrams/EventLogSystem.png)
 
 ### Use Cases  
 
-![Diagram](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystemUseCase.png)  
-[drawio](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystemUseCase.drawio)  
-[png](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagram/EventLogSystemUseCase.png)
+![Diagram](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagrams/EventLogSystemUseCase.png)  
+[drawio](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagrams/EventLogSystemUseCase.drawio)  
+[png](https://github.com/Magicianred/EventLogSystem/blob/develop/Project/Diagrams/EventLogSystemUseCase.png)
 
 
 
